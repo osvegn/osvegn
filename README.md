@@ -1,7 +1,7 @@
 ### Hi there 👋
 # About me
-I'm Thomas. I'm student at Epitech Nantes. I'm interested in programmation. I like to discover different things and improve my knowledge with it.
-I'm currently in Japan, for an exchange year in Shibaura Institute of Technologie.
+I'm Thomas. I'm a student at Epitech. I'm interested in programming. I like to discover different things and improve my knowledge with it.
+I'm currently in Japan, for an exchange year in Shibaura Institute of Technology.
 
 # My skills
 - Preferred programmation languages
