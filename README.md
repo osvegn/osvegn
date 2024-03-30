@@ -10,7 +10,7 @@ I'm currently in Japan, for an exchange year in Shibaura Institute of Technology
 
 - Programmation languages I already used
 
-![](https://skillicons.dev/icons?i=py,dart,java,js,lua,md)
+![](https://skillicons.dev/icons?i=py,dart,java,js,lua,md,rust)
 
 - Tools and frameworks I use to work
 
